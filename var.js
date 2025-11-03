@@ -1,5 +1,7 @@
-let num1 = 2;
-let num2 =4;
-let sum =num1+num2;
-console.log(sum);
-
+let age=25;
+if(age>=18){
+    console.log("he can vote");
+}
+else{
+    console.log("can't vote");
+}
